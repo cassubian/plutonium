@@ -1,0 +1,9 @@
+Building PlutoniumKoin
+
+See doc/readme-qt.rst for instructions on building PlutoniumKoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PlutoniumKoin.
+
+See doc/build-*.txt for instructions on building plutoniumkoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of PlutoniumKoin.
